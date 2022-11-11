@@ -14,6 +14,7 @@ export function escolhaCor(cor: 'Vermelho' | 'Amarelo' | 'Azul'): string {
   return cor;
 }
 console.log(escolhaCor('Vermelho'));
+console.log(pessoa);
 
 //Module mode
 export default 1;
